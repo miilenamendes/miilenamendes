@@ -1,7 +1,7 @@
 ## Oi eu sou a Milena Mendes.
 
 <div align="center">
-  <a href="https://github.com/miilenamendes">
+  <a href="https://github.com/vivianefariasx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miilenamendes&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miilenamendes&layout=compact&langs_count=7&theme=slateorange"/>
 </div>
