@@ -7,7 +7,7 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Milena-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Milenaa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Milena-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Milena-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Milena-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/911593887569707051/916111025072377866/Webp.net-gifmaker_1.gif">
